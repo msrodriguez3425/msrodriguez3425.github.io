@@ -1,3 +1,22 @@
+table {
+      border: 1px solid black;
+     border-collapse: collapse;
+   }
+  #garythesnail {
+    border: 1px solid red;
+    background-color: #9ACFA6;
+   
+  }
+  
+ 
+  .high:hover {
+  background-color: #ff6bb3 ;
+ }
+  
+  .low {
+   color: red;
+  }
+
 thead {
   background-color: #FFE033
 }
