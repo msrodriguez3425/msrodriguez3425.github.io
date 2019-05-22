@@ -14,11 +14,28 @@ div.container{
 }
 
 div.box{
-    background-color: #AFCDC7;
+    background-color: white;
 }
 
 
 
 h3.header{
     color: #618A82;
+}
+
+div.col-lg-5 img{
+    
+    height: 110px;
+    background-color: powderblue;
+    
+}
+
+
+main{
+    background: powderblue;
+}
+
+img.compPlot{
+    height:300px;
+    align-content: center;
 }
