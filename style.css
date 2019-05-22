@@ -1,12 +1,24 @@
-@import url('https://fonts.googleapis.com/css?family=Akronim');
-table {
-    border: 1px solid black;
-   border-collapse: collapse;
- }
-thead {
-background-color:#cce6ff;
+a.navbar-brand{
+    background-color: rgb(195, 155, 233);
+    padding: 10px;
+    font-weight: 500;
+    color: rgb(219, 180, 180);
+    border-radius: 10%;
 }
 
-tbody>tr:nth-child(odd){
-    background-color: #ddff99;
+div.container{
+    display: inline-block;
+
+    
+
+}
+
+div.box{
+    background-color: #AFCDC7;
+}
+
+
+
+h3.header{
+    color: #618A82;
 }
